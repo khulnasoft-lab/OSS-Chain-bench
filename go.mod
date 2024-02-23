@@ -8,7 +8,7 @@ require (
 	github.com/google/go-github/v41 v41.0.0
 	github.com/google/uuid v1.2.0
 	github.com/imdario/mergo v0.3.16
-	github.com/migueleliasweb/go-github-mock v0.0.8
+	github.com/migueleliasweb/go-github-mock v0.0.23
 	github.com/rs/zerolog v1.26.1
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/viper v1.11.0
